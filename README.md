@@ -7,6 +7,11 @@ Ich möchte Heute:
 2. Ich möchte die Aufgaben 1708; 1709; 1710 lösen
 3. Mich mit Partnerarbeiten vertrauter machen.
 
+## Reflexion:
+1. Sehr gut funktioniert
+2. Nicht funktioniert
+3. gut funktioniert
+
 
 ## 16.08.2024
 
@@ -16,7 +21,7 @@ Ich möchte Heute:
 3. Im Modul 431 folgende Aufgaben-Gruppen fertig stellen und die Selbstprüfungen dafür ausfüllen; 1703, 1704, 1705, 1706, 1707
 
 
-## Reflektion: 
+## Reflexion: 
 1. Gut funktioniert
 2. Gut funktioniert
 3. Nicht gut funktioniert 
