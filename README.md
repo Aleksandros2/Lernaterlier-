@@ -7,10 +7,10 @@ ich möchte Heute:
 2. Modul 431 Aufgaben 1706:1707 lösen
 3. Notenrechner erstellen
 
-
-
-
-   
+## Reflexion:
+1. Okay funktioniert
+2. okay funktioniert
+3. Gut funktioniert 
 
 ## 23.08.2024
 
