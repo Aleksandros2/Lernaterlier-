@@ -1,5 +1,17 @@
 # Lernaterlier
 
+## 30.08.2024
+
+ich möchte Heute:
+1. Modul 319 Aufgaben 2702;6906 lösen 
+2. Modul 431 Aufgaben 1706:1707 lösen
+3. Notenrechner erstellen
+
+
+
+
+   
+
 ## 23.08.2024
 
 Ich möchte Heute:
