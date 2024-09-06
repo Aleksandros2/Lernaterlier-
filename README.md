@@ -1,5 +1,14 @@
 # Lernaterlier
 
+## 06.09.2024
+
+ich möchte Heute:
+1. Modul 319 Aufgaben 2702;6906 wiederholen
+2. Beim Input mitmachen
+3. Zusätze zum Input erstellen
+
+
+
 ## 30.08.2024
 
 ich möchte Heute:
