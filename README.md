@@ -6,8 +6,11 @@ ich möchte Heute:
 1. Modul 319 Aufgaben 2702;6906 wiederholen
 2. Beim Input mitmachen
 3. Zusätze zum Input erstellen
-
-
+   
+## Reflexion:
+1. Gut funktioniert
+2. Sehr gut funktioniert
+3. Sehr gut funktioniert
 
 ## 30.08.2024
 
