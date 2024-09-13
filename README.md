@@ -3,7 +3,7 @@
 ## 13.09.2024
 
 ich möchte Heute:
-1. Einfacheres Programmieren eines Tic Tac Toe Spieles (versuchen zu) programmieren
+1. Programmieren eines Notenrechners mithilfe von Arrays
 2. Am Lernatelier zu dieser Aufgaben Stellung teilnehmen
 3. Modul 319 Aufgaben 6907;6908 lösen/wiederholen
 
