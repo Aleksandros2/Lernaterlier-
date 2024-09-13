@@ -7,8 +7,9 @@ ich möchte Heute:
 2. Am Lernatelier zu dieser Aufgaben Stellung teilnehmen
 3. Modul 319 Aufgaben 6907;6908 lösen/wiederholen
 
-
-
+## Reflexion:
+1-2, Ziele nicht verfolgt und deswegen nicht erreicht
+3. Ziel erreicht
 
 ## 06.09.2024
 
