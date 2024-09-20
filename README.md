@@ -7,7 +7,10 @@ ich möchte Heute:
 2. Freiwillige Aufgaben lösen (2-3)
 3. Am Input zu Funktionen und zum Testen teilnehmen
 
-
+## Reflexion:
+1.
+2. Ziel sehr gut erreicht
+3. Ziel nicht verfolgt
 
 ## 13.09.2024
 
