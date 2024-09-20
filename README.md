@@ -1,5 +1,14 @@
 # Lernaterlier
 
+## 20.09.2024
+
+ich möchte Heute:
+1. Präsentation zu Arrays ankucken
+2. Freiwillige Aufgaben lösen (2-3)
+3. Am Input zu Funktionen und zum Testen teilnehmen
+
+
+
 ## 13.09.2024
 
 ich möchte Heute:
