@@ -8,7 +8,7 @@ ich möchte Heute:
 3. Am Input zu Funktionen und zum Testen teilnehmen
 
 ## Reflexion:
-1.
+1. Ziel erreicht
 2. Ziel sehr gut erreicht (auch zusätze gemacht)
 3. Ziel nicht verfolgt
 
