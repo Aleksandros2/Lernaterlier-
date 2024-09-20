@@ -9,7 +9,7 @@ ich möchte Heute:
 
 ## Reflexion:
 1.
-2. Ziel sehr gut erreicht
+2. Ziel sehr gut erreicht (auch zusätze gemacht)
 3. Ziel nicht verfolgt
 
 ## 13.09.2024
