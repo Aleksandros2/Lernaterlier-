@@ -1,5 +1,13 @@
 # Lernaterlier
 
+## 18.10.2024
+
+ich möchte Heute:
+1. Youtube Lernvideos zu Arrays ankucken
+2. Freiwillige Aufgaben lösen (2 weitere)
+3. Am Input teilnehmen (falls es keinen hat, Aufgaben 6909;6910;6911
+
+
 ## 20.09.2024
 
 ich möchte Heute:
