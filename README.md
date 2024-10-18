@@ -5,8 +5,12 @@
 ich möchte Heute:
 1. Youtube Lernvideos zu Arrays ankucken
 2. Freiwillige Aufgaben lösen (2 weitere)
-3. Am Input teilnehmen (falls es keinen hat, Aufgaben 6909;6910;6911 lösen) 
+3. Am Input teilnehmen (falls es keinen hat, Aufgaben 6909;6910;6911 lösen)
 
+## Reflexion:
+1.
+2.
+3.
 
 ## 20.09.2024
 
