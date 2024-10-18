@@ -8,9 +8,9 @@ ich möchte Heute:
 3. Am Input teilnehmen (falls es keinen hat, Aufgaben 6909;6910;6911 lösen)
 
 ## Reflexion:
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel nicht verfolgt
+3. Kein Input Heute daher, 6907 wiederholt und 6909 gelöst
 
 ## 20.09.2024
 
