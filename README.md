@@ -8,9 +8,9 @@ ich möchte Heute:
 3. Fehlende Aufgaben aufschreiben und nach IPERKA mein weiteres Vorgehen planen.
 
 ## Reflexion:
-
-
-
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 18.10.2024
 
