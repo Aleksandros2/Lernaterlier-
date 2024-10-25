@@ -1,5 +1,17 @@
 # Lernaterlier
 
+## 25.10.2024
+
+ich möchte Heute:
+1. Weitere Youtube Lernvideos zu Arrays ankucken
+2. Checkliste zu gelösten und ungekösten Aufgaben vom Modul 319 erstellen und ausfüllen
+3. Fehlende Aufgaben aufschreiben und nach IPERKA mein weiteres Vorgehen planen.
+
+## Reflexion:
+
+
+
+
 ## 18.10.2024
 
 ich möchte Heute:
