@@ -4,7 +4,7 @@
 
 ich möchte Heute:
 1. PowerPoints zu Arrays und Funktionen, sowhol auch Schleifen ankucken.
-2. Fehlende Aufgaben ausfüllen      
+2. Am Input 14:00 Uhr zu M319 teilnehmen      
 3. Themen zur Prüfung mit meiner Lerngruppe (Svanik und Daniel) besprechen
 
 ## Reflexion:
