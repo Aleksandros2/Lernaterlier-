@@ -8,9 +8,9 @@ ich möchte Heute:
 3. Themen zur Prüfung mit meiner Lerngruppe (Svanik und Daniel) besprechen
 
 ## Reflexion:
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel teilweise erreicht
 
 ## 25.10.2024
 
