@@ -1,5 +1,17 @@
 # Lernaterlier
 
+## 01.11.2024
+
+ich möchte Heute:
+1. PowerPoints zu Arrays und Funktionen, sowhol auch Schleifen ankucken.
+2. Fehlende Aufgaben ausfüllen      
+3. Themen zur Prüfung mit meiner Lerngruppe (Svanik und Daniel) besprechen
+
+## Reflexion:
+1.
+2.
+3.
+
 ## 25.10.2024
 
 ich möchte Heute:
