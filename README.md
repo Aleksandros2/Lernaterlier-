@@ -8,9 +8,9 @@ Ich möchte Heute:
 3. Ein paar Pausen über den nachmittag verteilen
 
 ## Reflexion:
-1.
-2.
-3.
+1. Ziel nicht erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 01.11.2024
 
