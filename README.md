@@ -1,8 +1,20 @@
 # Lernaterlier
 
+## 08.11.2024
+
+Ich möchte Heute:
+1. Ich möchte am Projekt arbeiten (Eine Schleife zur überprüfung der Bedingungen für die Unternehmensgrösse programmieren)
+2. Ich möchte meine Zusammarbeitskompetenz erweitern, indem ich mit Arda eine freiwillige Aufgabe erledigen werde (Wir erstellen unseren Stundenplan als Code nach)
+3. Ein paar Pausen über den nachmittag verteilen
+
+## Reflexion:
+1.
+2.
+3.
+
 ## 01.11.2024
 
-ich möchte Heute:
+Ich möchte Heute:
 1. PowerPoints zu Arrays und Funktionen, sowhol auch Schleifen ankucken.
 2. Am Input 14:00 Uhr zu M319 teilnehmen      
 3. Themen zur Prüfung mit meiner Lerngruppe (Svanik und Daniel) besprechen
@@ -14,7 +26,7 @@ ich möchte Heute:
 
 ## 25.10.2024
 
-ich möchte Heute:
+Ich möchte Heute:
 1. Am Input teilnehmen (15:15 Uhr Input zu Algorithmus und Kontrollstruktur)
 2. Checkliste zu gelösten und ungekösten Aufgaben vom Modul 319 erstellen und ausfüllen
 3. Fehlende Aufgaben aufschreiben und nach IPERKA mein weiteres Vorgehen planen.
@@ -26,7 +38,7 @@ ich möchte Heute:
 
 ## 18.10.2024
 
-ich möchte Heute:
+Ich möchte Heute:
 1. Youtube Lernvideos zu Arrays ankucken
 2. Freiwillige Aufgaben lösen (2 weitere)
 3. Am Input teilnehmen (falls es keinen hat, Aufgaben 6909;6910;6911 lösen)
@@ -38,7 +50,7 @@ ich möchte Heute:
 
 ## 20.09.2024
 
-ich möchte Heute:
+Ich möchte Heute:
 1. Präsentation zu Arrays ankucken
 2. Freiwillige Aufgaben lösen (2-3)
 3. Am Input zu Funktionen und zum Testen teilnehmen
@@ -50,7 +62,7 @@ ich möchte Heute:
 
 ## 13.09.2024
 
-ich möchte Heute:
+Ich möchte Heute:
 1. Programmieren eines Notenrechners mithilfe von Arrays
 2. Am Lernatelier zu dieser Aufgaben Stellung teilnehmen
 3. Modul 319 Aufgaben 6907;6908 lösen/wiederholen
@@ -61,7 +73,7 @@ ich möchte Heute:
 
 ## 06.09.2024
 
-ich möchte Heute:
+Ich möchte Heute:
 1. Modul 319 Aufgaben 2702;6906 wiederholen
 2. Beim Input mitmachen
 3. Zusätze zum Input erstellen
@@ -73,7 +85,7 @@ ich möchte Heute:
 
 ## 30.08.2024
 
-ich möchte Heute:
+Ich möchte Heute:
 1. Modul 319 Aufgaben 2702;6906 lösen 
 2. Modul 431 Aufgaben 1706:1707 lösen
 3. Notenrechner erstellen
