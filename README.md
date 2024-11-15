@@ -8,7 +8,9 @@ ich möchte Heute:
 3. Ich möchte meine Kompetenz in der Richtung Teamarbeit beim Projekt mit Daniel und Svanik erweitern und ihr Feedback aufnehmen und verarbeiten
 
 ## Reflexion:
-
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 08.11.2024
 
