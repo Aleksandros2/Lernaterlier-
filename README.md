@@ -1,5 +1,15 @@
 # Lernaterlier
 
+15.11.2024
+
+ich möchte Heute:
+1. Ich möchte gemeinsam mit Svanik und Daniel beim Projekt ein Switch-case zur Überprüfung der Bedingungen für die Unternehmensgrösse (Mitarbeiteranzahl und die Jahresbilanz nach Kundenwunsch) programmieren
+2. Ich arbeite am Auftrag 6944 (DM2) aus dem Modul 162
+3. Ich möchte meine Kompetenz in der Richtung Teamarbeit beim Projekt mit Daniel und Svanik erweitern und ihr Feedback aufnehmen und verarbeiten
+
+## Reflexion:
+
+
 ## 08.11.2024
 
 Ich möchte Heute:
