@@ -7,7 +7,9 @@ Ich möchte Heute:
 3. Ich arbeite am Auftrag 6954 aus dem Modul 162
 
 ## Reflexion
-Text Text
+1. Ziel fast (etwa 90%) erreicht
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 22.11.2024
 Ich konnte Heute den Unterricht aufgrund von Krankheit leider nciht besuchen
