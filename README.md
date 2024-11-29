@@ -1,5 +1,21 @@
 # Lernaterlier
 
+29.11.2024
+Ich möchte Heeute:
+1.
+2.
+3.
+
+1. Ziel
+2. Ziel
+3. Ziel
+
+## Reflexion
+
+
+22.11.2024
+Ich konnte Heute den Unterricht aufgrund von Krankheit leider nciht besuchen
+
 15.11.2024
 
 ich möchte Heute:
