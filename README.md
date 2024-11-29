@@ -6,10 +6,6 @@ Ich möchte Heute:
 2. Die PowerPoint Präsentation mit Svanik und Daniel üben
 3. Ich arbeite am Auftrag 6954 aus dem Modul 162
 
-1. Text
-2. Text
-3. Text
-
 ## Reflexion
 Text Text
 
