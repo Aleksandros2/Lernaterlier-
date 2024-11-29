@@ -1,17 +1,17 @@
 # Lernaterlier
 
 29.11.2024
-Ich möchte Heeute:
-1.
-2.
-3.
+Ich möchte Heute:
+1. Die PowerPoint Präsentation für das Projekt fertig stellen
+2. Die PowerPoint Präsentation mit Svanik und Daniel üben
+3. Ich arbeite am Auftrag 6954 aus dem Modul 162
 
-1. Ziel
-2. Ziel
-3. Ziel
+1. Text
+2. Text
+3. Text
 
 ## Reflexion
-
+Text Text
 
 22.11.2024
 Ich konnte Heute den Unterricht aufgrund von Krankheit leider nciht besuchen
