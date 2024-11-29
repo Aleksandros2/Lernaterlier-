@@ -1,6 +1,6 @@
 # Lernaterlier
 
-29.11.2024
+## 29.11.2024
 Ich möchte Heute:
 1. Die PowerPoint Präsentation für das Projekt fertig stellen
 2. Die PowerPoint Präsentation mit Svanik und Daniel üben
@@ -9,10 +9,10 @@ Ich möchte Heute:
 ## Reflexion
 Text Text
 
-22.11.2024
+## 22.11.2024
 Ich konnte Heute den Unterricht aufgrund von Krankheit leider nciht besuchen
 
-15.11.2024
+## 15.11.2024
 
 ich möchte Heute:
 1. Ich möchte gemeinsam mit Svanik und Daniel beim Projekt ein Switch-case zur Überprüfung der Bedingungen für die Unternehmensgrösse (Mitarbeiteranzahl und die Jahresbilanz nach Kundenwunsch) programmieren
