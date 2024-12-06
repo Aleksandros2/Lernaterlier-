@@ -5,7 +5,6 @@ Ich möchte Heute:
 1. Am Input zur Repetion teilnehmen.
 2. Den Auftrag 6991 "Gesamtrepetition" aus dem Modul 162 lösen und korrigieren
 3. Ein kleines Programmierprojekt gemeinsam mit Svanik und Arda programmieren. (ich schreibe weiter Informationen zum Projekt bis etwa 13:05)
-(4.) falls die Zeit noch ausreicht arbeite ich an einem weiterem Auftrag im Modul 162
 
 ## Reflexion
 1.
