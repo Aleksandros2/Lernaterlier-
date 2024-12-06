@@ -1,5 +1,16 @@
 # Lernaterlier
 
+## 06.12.2024
+Ich möchte Heute:
+1. Am Input zur Repetion teilnehmen.
+2. Den Auftrag 6991 "Gesamtrepetition" lösen und korrigieren
+3. Ein kleines Programmierprojekt gemeinsam mit Svanik und Arda programmieren. (ich schreibe weiter Informationen zum Projekt bis etwa 13:05)
+
+## Reflexion
+1.
+2.
+3.
+
 ## 29.11.2024
 Ich möchte Heute:
 1. Die PowerPoint Präsentation für das Projekt fertig stellen
