@@ -4,12 +4,12 @@
 Ich möchte Heute:
 1. Am Input zur Repetion teilnehmen.
 2. Den Auftrag 6991 "Gesamtrepetition" aus dem Modul 162 lösen und korrigieren
-3. Ein kleines Programmierprojekt gemeinsam mit Svanik und Arda programmieren. (ich schreibe weiter Informationen zum Projekt bis etwa 13:05)
+3. Ein kleines Programmierprojekt gemeinsam mit Svanik und Arda programmieren. 
 
 ## Reflexion
-1.
-2.
-3.
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel teilweise erreicht (ich habe alleine begonnen und habe die Figur und das Spielfeld fertig gestellt)
 
 ## 29.11.2024
 Ich möchte Heute:
