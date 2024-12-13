@@ -7,9 +7,9 @@ Ich möchte Heute:
 3. Eine steuerbare Figur (wie sie in Snake vorkommt) zu programmieren
 
 ## Reflexion
-1. 
-2. 
-3. 
+1. Ziel nicht erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
 
 ## 09.12.2024
 Eigenes Informatikprojekt
