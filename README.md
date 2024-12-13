@@ -1,12 +1,19 @@
 # Lernaterlier
 
+## 13.12.2024
+Ich möchte Heute:
+1. GameOver bei Selbstkolision programmieren.
+2. GameOver bei Kolision mit dem Spielfeld programmieren
+3. Eine steuerbare Figur (wie sie in Snake vorkommt) zu programmieren
+
+## Reflexion
+1. 
+2. 
+3. 
+
 ## 09.12.2024
 Eigenes Informatikprojekt
 Anforderungsanalyse:![image](https://github.com/user-attachments/assets/2777c466-9706-4cca-88bc-7ae2aa3ab077)
-
-
-
-
 
 ## 06.12.2024
 Ich möchte Heute:
