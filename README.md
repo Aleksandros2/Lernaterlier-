@@ -1,5 +1,13 @@
 # Lernaterlier
 
+## 20.12.2024
+ich möchte Heute:
+1. GameOver bei Selbstkolision programmieren.
+2. Eine steuerbare Figur (wie sie in Snake vorkommt) zu programmieren
+3. Zufällig generierte Äpfel programmieren.
+
+## Reflexion
+
 ## 13.12.2024
 Ich möchte Heute:
 1. GameOver bei Selbstkolision programmieren.
