@@ -7,7 +7,10 @@ ich möchte Heute:
 3. Zufällig generierte Äpfel programmieren.
 
 ## Reflexion
-
+1. Ziel erreicht
+2. Ziel erreicht
+3. Ziel nicht erreicht
+   
 ## 13.12.2024
 Ich möchte Heute:
 1. GameOver bei Selbstkolision programmieren.
