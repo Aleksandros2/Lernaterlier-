@@ -2,13 +2,14 @@
 
 ## 10.01.2024
 ich möchte Heute:
-1. Zufällig generierte Äpfel programmieren
+1. Zufällige Generierung von Äpfeln auf dem Spielfeld (Item)
 2. Die Anforderungsanalyse des Projekts wiederherstellen (sie ist korrumpiert)
-3. Eine steuerbare Figur (wie sie in Snake vorkommt) zu programmieren
+3. Einmalige Existenz der Äpfel auf dem Spielfeld
+[Anforderungsanalyse Projekt.docx](https://github.com/user-attachments/files/18376648/Anforderungsanalyse.Projekt.docx)
 
 ## Reflexion
 1.
-2.
+2. Ziel erreicht
 3.
 
 ## 20.12.2024
