@@ -8,10 +8,10 @@ ich möchte Heute:
 [Anforderungsanalyse Projekt.docx](https://github.com/user-attachments/files/18376648/Anforderungsanalyse.Projekt.docx)
 
 ## Reflexion
-1.
+1. Ziel nicht erreicht
 2. Ziel erreicht
-3.
-
+3. Ziel nicht erreicht
+ 
 ## 20.12.2024
 ich möchte Heute:
 1. GameOver bei Selbstkolision programmieren.
