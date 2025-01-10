@@ -1,5 +1,16 @@
 # Lernaterlier
 
+## 10.01.2024
+ich möchte Heute:
+1. Zufällig generierte Äpfel programmieren
+2.
+3.
+
+## Reflexion
+1.
+2.
+3.
+
 ## 20.12.2024
 ich möchte Heute:
 1. GameOver bei Selbstkolision programmieren.
