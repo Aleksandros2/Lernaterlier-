@@ -4,13 +4,12 @@
 ich möchte Heute:
 1. Eine Projektdokumentation schreiben
 2. Die einmalige Existenz der Äpfel auf dem Spielfeld programmieren
-3. Zufällige Generierung von Äpfeln auf dem Spielfeld (Item) [Projektdokumentation Snake.docx](https://github.com/user-attachments/files/18454603/Projektdokumentation.Snake.docx)
-
+3. Zufällige Generierung von Äpfeln auf dem Spielfeld (Item) [Projektdokumentation.Snake.docx](https://github.com/user-attachments/files/18457170/Projektdokumentation.Snake.docx)
 
 ## Reflexion:
 1. Ziel erreicht
-2.
-3.
+2. Ziel erreicht
+3. Ziel erreicht
 
 ## 10.01.2025
 ich möchte Heute:
