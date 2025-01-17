@@ -1,6 +1,17 @@
 # Lernaterlier
 
-## 10.01.2024
+## 17.01.2025
+ich möchte Heute:
+1. Eine Projektdokumentation schreiben
+2. Die einmalige Existenz der Äpfel auf dem Spielfeld programmieren
+3. Zufällige Generierung von Äpfeln auf dem Spielfeld (Item)
+
+## Reflexion:
+1.
+2.
+3.
+
+## 10.01.2025
 ich möchte Heute:
 1. Zufällige Generierung von Äpfeln auf dem Spielfeld (Item)
 2. Die Anforderungsanalyse des Projekts wiederherstellen (sie ist korrumpiert)
