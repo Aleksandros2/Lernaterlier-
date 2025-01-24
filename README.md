@@ -8,7 +8,7 @@ ich möchte Heute:
 [Projektdokumentation Snake.docx](https://github.com/user-attachments/files/18535306/Projektdokumentation.Snake.docx)
 ## Reflexion:
 1. Ziel erreicht
-2.
+2. Ziel erreicht
 3.
 
 ## 17.01.2025
