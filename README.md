@@ -2,8 +2,8 @@
 24.01.2025
 ich möchte Heute:
 1. Die Spielfigur beim einsammeln von Äpfeln (Items) verlängern
-2. Die Aufgaben 1726;1727 aus dem Modul 117 erledigen
-3. Die zu den Aufgaben 1726;1727 gehörigen Moodletests ausfüllen
+2. Soundeffekte beim einsammeln der Äpfel programmieren
+3. Die Aufgaben 1726;1727 aus dem Modul 117 erledigen
 [Anforderungsanalyse.Projekt.docx](https://github.com/user-attachments/files/18535305/Anforderungsanalyse.Projekt.docx)
 [Projektdokumentation Snake.docx](https://github.com/user-attachments/files/18535306/Projektdokumentation.Snake.docx)
 ## Reflexion:
