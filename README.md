@@ -7,7 +7,7 @@ ich möchte Heute:
 [Anforderungsanalyse.Projekt.docx](https://github.com/user-attachments/files/18535305/Anforderungsanalyse.Projekt.docx)
 [Projektdokumentation Snake.docx](https://github.com/user-attachments/files/18535306/Projektdokumentation.Snake.docx)
 ## Reflexion:
-1.
+1. Ziel erreicht
 2.
 3.
 
