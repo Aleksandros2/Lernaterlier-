@@ -1,4 +1,15 @@
 # Lernaterlier
+24.01.2025
+ich möchte Heute:
+1. Die Spielfigur beim einsammeln von Äpfeln (Items) verlängern
+2. Die Aufgaben 1726;1727 aus dem Modul 117 erledigen
+3. Die zu den Aufgaben 1726;1727 gehörigen Moodletests ausfüllen
+[Anforderungsanalyse.Projekt.docx](https://github.com/user-attachments/files/18535305/Anforderungsanalyse.Projekt.docx)
+[Projektdokumentation Snake.docx](https://github.com/user-attachments/files/18535306/Projektdokumentation.Snake.docx)
+## Reflexion:
+1.
+2.
+3.
 
 ## 17.01.2025
 ich möchte Heute:
