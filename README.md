@@ -4,6 +4,7 @@ ich möchte Heute:
 1. Die Spielfigur beim einsammeln von Äpfeln (Items) verlängern
 2. Soundeffekte beim einsammeln der Äpfel programmieren
 3. Die Aufgabe 1726 aus dem Modul 117 erledigen
+4. Das Spiel schneller machen, je mehr Punkte man gesammelt hat
 [Anforderungsanalyse.Projekt.docx](https://github.com/user-attachments/files/18536007/Anforderungsanalyse.Projekt.docx)
 [Projektdokumentation.Snake.docx](https://github.com/user-attachments/files/18536011/Projektdokumentation.Snake.docx)
 ## Reflexion:
